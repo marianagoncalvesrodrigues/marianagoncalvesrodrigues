@@ -29,6 +29,6 @@
   <a href="https://www.instagram.com/marii_grs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mary.judo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-rodrigues-582b05184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://therionej.com.br/" target="_blank"><img src="https://github.com/marianagoncalvesrodrigues/marianagoncalvesrodrigues/blob/main/therionicon.png" 
+  <a href="https://therionej.com.br/" target="_blank"><img src="" 
 height="100px" width="120px" target="_blank"></a> 
 </div>
