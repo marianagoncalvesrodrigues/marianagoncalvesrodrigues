@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Mariana Rodrigues 💻
 
+![Snake animation](https://github.com/marianagoncalvesrodrigues/marianagoncalvesrodrigues/blob/output/github-contribution-grid-snake.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianagoncalvesrodrigues&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianagoncalvesrodrigues&layout=compact&theme=tokyonight)](https://github.com/marianagoncalvesrodrigues/github-readme-stats)
 ##
