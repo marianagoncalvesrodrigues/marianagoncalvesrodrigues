@@ -8,7 +8,7 @@
 
 - 🌱 Faço engenharia da computação
 - 💬 Interessada em estagio na area de  TI
-- 💼 Trabalhando como diretora executiva da empresa junior Therion
+
 
 
 <div style="display: inline_block"><br>
