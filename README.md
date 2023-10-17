@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianagoncalvesrodrigues&layout=compact&theme=tokyonight)](https://github.com/marianagoncalvesrodrigues/github-readme-stats)
 ##
 
-- 🌱 Faço engenharia da computação
-- 💬 Interessada em estagio na area de  TI
+- 🌱 Faço engenharia da computação 9/10
+- 💬 Estagiária na Embraer
 
 
 
